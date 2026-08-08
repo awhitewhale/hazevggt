@@ -8,7 +8,7 @@ Visual geometry foundation models can fuse multiple images to infer cameras, dep
 
 ## Architecture
 
-[Figure 1: Overview of Haze-VGGT](fig1.pdf)
+![Figure 1: Overview of Haze-VGGT](fig1.pdf)
 
 The inference path consists of an HCV front end, an alternating frame-wise and global attention backbone, and multi-task prediction heads for cameras and dense geometry. Intermediate condition-adapted views remain as PyTorch tensors in memory. The program writes only the final GLB reconstruction.
 
