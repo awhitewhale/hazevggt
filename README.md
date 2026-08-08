@@ -111,4 +111,4 @@ The result is written to:
 hazevggt_outputs/hazevggt_reconstruction.glb
 ```
 
-The program performs haze-condition adaptation, multi-view geometry prediction, reliability-aware point selection, camera visualization, and GLB export in one run. No intermediate image files are created.
+The program performs haze-condition adaptation, multi-view geometry prediction, reliability-aware point selection, camera visualization, and GLB export in one run. 
