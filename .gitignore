@@ -1,0 +1,21 @@
+# Generated reconstruction files
+*.glb
+
+# Python bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local repository and editor state
+.git/
+.vscode/
+
+# Downloaded model checkpoints
+hazevggt_checkpoints/*.pt
+hazevggt_checkpoints/*.pth
+hazevggt_checkpoints/*.envelope
+hazevggt_checkpoints/*.download
+
+# Operating-system files
+.DS_Store
+Thumbs.db

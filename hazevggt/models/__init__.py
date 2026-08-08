@@ -1,0 +1,1 @@
+"""Haze-VGGT model definitions."""
